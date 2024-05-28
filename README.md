@@ -16,7 +16,7 @@
 
 --> Record UI
 
-![image](https://github.com/Kyaa-A/Acadbridge/assets/38740041/207061d7-a07c-4087-9267-f32115a031ad)
+![image](https://github.com/Kyaa-A/Acadbridge/assets/38740041/e23a3c5f-54ad-45ef-8b58-089003886bb5)
 
 --> Contact UI
 
